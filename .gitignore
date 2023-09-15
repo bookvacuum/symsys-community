@@ -26,3 +26,6 @@ pnpm-debug.log*
 public/polygonjs/backup
 public/polygonjs/build
 public/polygonjs/js
+*.lock
+yarn.lock
+package-lock.json

@@ -2,9 +2,7 @@
   <div
     class="relative items-center justify-center w-full h-full overflow-x-hidden"
   >
-    <div
-      class="flex flex-col-reverse items-center justify-between h-full lg:flex-row"
-    >
+    <div class="flex items-center justify-between h-full">
       <HeroText></HeroText>
       <HeroVisuals class="hidden lg:block"></HeroVisuals>
     </div>
@@ -38,7 +36,7 @@
       Community Resources
     </h1>
     <div
-      class="flex gap-x-[5%] mb-10 text-lg text-gray-600 lg:leading-9 sm:text-lg w-[90%] sm:w-[70%] lg:w-[80%] lg:text-xl lg:pb-40"
+      class="flex gap-x-[5%] justify-between mb-10 text-lg text-gray-600 lg:leading-9 sm:text-lg w-[90%] sm:w-[70%] lg:w-[80%] lg:text-xl lg:pb-40"
     >
       <div class="w-[30%] justify-center text-center items-center">
         <svg
