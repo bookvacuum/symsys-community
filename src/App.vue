@@ -2,9 +2,7 @@
   <div
     class="relative items-center justify-center w-full h-full overflow-x-hidden"
   >
-    <div
-      class="flex flex-col-reverse items-center justify-between h-full lg:flex-row"
-    >
+    <div class="flex items-center justify-between h-full">
       <HeroText></HeroText>
       <HeroVisuals class="hidden lg:block"></HeroVisuals>
     </div>
