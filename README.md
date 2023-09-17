@@ -1,7 +1,4 @@
-![Painted Globe Website Template](https://github.com/polygonjs/template-painted-globe/blob/main/public/screenshots/screenshot1.jpg?raw=true)
-![Screenshot from Polygonjs](https://github.com/polygonjs/template-painted-globe/blob/main/public/screenshots/screenshot3.jpg?raw=true)
 
-[Create interactive 3D With Polygonjs](https://polygonjs.com) --- [View On Polygonjs Marketplace](https://market.polygonjs.com/gui/templates/painted-globe) --- [Live Demo](https://market.polygonjs.com/gui/templates/painted-globe/fullscreen)
 
 # template-painted-globe
 
@@ -33,12 +30,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-# Open polygonjs
-
-- run `yarn polygonjs`
-- open your browser at `http://localhost:8091?scene=scene_01` or `http://localhost:8091`
