@@ -1,6 +1,5 @@
 
 
-# template-painted-globe
 
 This project was created using:
 
